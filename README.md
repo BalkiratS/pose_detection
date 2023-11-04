@@ -19,7 +19,7 @@ The project aims to classify the "Tree Pose" and "Warrior Pose" based on body la
 
 - The dataset contains body landmarks data collected using BlazePose during the execution of the "Tree Pose" and "Warrior Pose."
 - The dataset is used for training, validation, and testing.
-- ![Screenshot 1](Dataset/sample_images/Screenshot.png)<!-- width="300" -->
+  ![Screenshot 1](Dataset/sample_images/Screenshot.png)<!-- width="300" -->
 
 ## Model Architecture
 
