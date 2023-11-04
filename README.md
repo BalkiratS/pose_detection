@@ -21,6 +21,12 @@ The project aims to classify the "Tree Pose" and "Warrior Pose" based on body la
 - The dataset is used for training, validation, and testing.
   ![Screenshot 1](Dataset/sample_images/Screenshot.png)<!-- width="300" -->
 
+### Feature Selection
+
+- Feature selection was performed to identify key body landmarks for pose classification.
+- The selected features are visualized in the image below.
+  ![Screenshot 1](Dataset/sample_images/feature_selection.png)<!-- width="300" -->
+
 ## Model Architecture
 
 - The project involves the development of a neural network model for pose classification.
