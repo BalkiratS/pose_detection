@@ -37,7 +37,7 @@ The repository is organized as follows:
 
 - `notebooks/`: Contains Jupyter Notebooks with code and documentation.
 - `models/`: Stores the trained model files in TensorFlow and TensorFlow Lite formats.
-- `data/`: Dataset and related data.
+- `Dataset/`: CSV Dataset files for both poese.
 - `README.md`: This file.
 
 ## License
