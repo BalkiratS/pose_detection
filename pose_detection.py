@@ -29,6 +29,7 @@ LANDMARKS = [
 # Function to parse command line arguments
 def parse_args():
     """Parses the program positional and optional arguments."""
+    
     parser = ap.ArgumentParser(prog="pose_detection", description=PROG_DESCRIPTION,)
     parser.add_argument("directory")
 
